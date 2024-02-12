@@ -1,0 +1,17 @@
+.coming {
+  position: absolute;
+  top: 2220px;
+  left: 10px;
+}
+
+.coming-ep {
+  width: 100%;
+  position: absolute;
+  top: 2300px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  row-gap: 50px;
+  column-gap: 50px;
+  padding-bottom: 170px;
+}
+

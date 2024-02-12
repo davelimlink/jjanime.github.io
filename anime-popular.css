@@ -1,0 +1,15 @@
+.popular {
+  position: absolute;
+  top: 1450px;
+  left: 10px;
+}
+
+.popular-ep {
+  width: 100%;
+  position: absolute;
+  top: 1530px;
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  row-gap: 50px;
+  column-gap: 50px;
+}
